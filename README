@@ -1,0 +1,5 @@
+Lambda Alias
+
+A tiny module for defining λ (lambda) and λ* (case-lambda) in Gerbil Scheme.
+This was made mostly as a joke, but also because I'd rather not litter every
+project of mine with `(defalias λ lambda)` and `(defalias λ* case-lambda)`.
