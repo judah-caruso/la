@@ -8,6 +8,7 @@ This was made mostly because I'd rather not litter every project of mine with
 
 Examples
 --------
+  (import :judah/la)
 
   (def simple-lambda (λ (x y) (+ x y)))
 
